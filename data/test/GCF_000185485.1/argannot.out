@@ -1,0 +1,3 @@
+#FILE	SEQUENCE	START	END	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT
+/data/Segrelab/michael/projects/staph_lugdunensis/refseq/bacteria/GCF_000185485.1/GCF_000185485.1_ASM18548v1_genomic.fna.gz	NZ_GL622351.1	72192	72992	(AGly)APH-Stph	1-801/801	========/======	2/2	99.88	80.42	argannot	HE579073:1778413-1779213	(AGly)APH-Stph
+/data/Segrelab/michael/projects/staph_lugdunensis/refseq/bacteria/GCF_000185485.1/GCF_000185485.1_ASM18548v1_genomic.fna.gz	NZ_GL622358.1	1	607	(Tet)TetC	164-770/1191	..========.....	0/0	50.97	100.00	argannot	EU751612:1-1191	(Tet)TetC

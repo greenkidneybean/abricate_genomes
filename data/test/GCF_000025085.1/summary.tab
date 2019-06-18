@@ -1,0 +1,9 @@
+#FILE	NUM_FOUND	(AGly)APH-Stph	(Bla)BlaZ	PC1_beta-lactamase_(blaZ)	arlR	blaI	blaPC1	blaR1	blaZ_78	cap8E	cap8G	cap8M	cap8O	clpP	esxA	hasC	isdC	isdE	isdG	mgrA	norA
+argannot.out	2	99.88	100.00;100.00	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+card.out	4	.	.	100.00;100.00	98.33	.	.	.	.	.	.	.	.	.	.	.	.	.	.	99.55	97.25
+ecoh.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+ecoli_vf.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+ncbi.out	3	.	.	.	.	100.00;100.00	100.00;100.00	100.00;100.00	.	.	.	.	.	.	.	.	.	.	.	.	.
+plasmidfinder.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+resfinder.out	1	.	.	.	.	.	.	.	100.00;100.00	.	.	.	.	.	.	.	.	.	.	.	.
+vfdb.out	10	.	.	.	.	.	.	.	.	98.54	99.56	95.16	98.02	94.30	100.00	20.98	47.37;47.37	86.23;86.23	72.84;72.84	.	.

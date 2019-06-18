@@ -1,0 +1,13 @@
+name: abricate
+channels:
+  - anaconda
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.6
+  - pandas
+  - seaborn
+  - abricate=0.8.13
+  - blast
+  - emboss

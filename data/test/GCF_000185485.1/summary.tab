@@ -1,0 +1,9 @@
+#FILE	NUM_FOUND	(AGly)APH-Stph	(Tet)TetC	arlR	cap8E	cap8G	cap8M	cap8O	clfA	clpP	esxA	hasC	isdC	isdE	isdG	mgrA	norA	tet(C)	tet(C)_2
+argannot.out	2	99.88	50.97	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+card.out	4	.	.	98.33	.	.	.	.	.	.	.	.	.	.	.	99.55	97.25	50.97	.
+ecoh.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+ecoli_vf.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+ncbi.out	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	50.97	.
+plasmidfinder.out	0	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+resfinder.out	1	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	51.62
+vfdb.out	11	.	.	.	98.54	99.56	95.16	98.02	26.05	94.30	100.00	20.98	47.37	86.23	72.84	.	.	.	.
