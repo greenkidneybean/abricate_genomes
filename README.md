@@ -3,7 +3,7 @@ _Identify some fun stuff in a slew of genomes_
 
 This is a simple wrapper for Torsten's [ABRicate](https://github.com/tseemann/abricate) to generate a .csv ([please forgive me Torsten](https://twitter.com/torstenseemann/status/400470305216274432)) that concatenates all virulence factors found among the eight databases that can be searched with ABRicate.
 
-## Quickstart:
+## Quick Start
 ```
 git clone https://github.com/greenkidneybean/abricate_genomes.git
 cd abricate_genomes
