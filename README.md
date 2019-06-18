@@ -16,7 +16,7 @@ python abricate_genomes.py samples.csv
 ```
 git clone https://github.com/greenkidneybean/abricate_genomes.git
 ```
-2. Install [Miniconda](https://hpc.nih.gov/apps/python.html)
+2. Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html), here's a guide for setup on [Biowulf](https://hpc.nih.gov/apps/python.html)
 3. Create the `abricate_env` conda environment:
 ```
 conda create --name abricate_env --file abricate_linux.txt
