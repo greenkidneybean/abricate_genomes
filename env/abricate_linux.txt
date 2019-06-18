@@ -1,5 +1,5 @@
 # This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
+# $ conda create --name abricate_env --file abricate_linux.txt
 # platform: linux-64
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/linux-64/ca-certificates-2019.6.16-hecc5488_0.tar.bz2

@@ -1,5 +1,5 @@
 # This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
+# $ conda create --name abricate_env --file abricate_mac.txt
 # platform: osx-64
 @EXPLICIT
 https://conda.anaconda.org/conda-forge/osx-64/bzip2-1.0.6-h1de35cc_1002.tar.bz2

@@ -1,4 +1,6 @@
-name: abricate
+# This file may be used to create an environment using:
+# $ conda create --name abricate_env --file abricate_linux.txt
+name: abricate_env
 channels:
   - anaconda
   - conda-forge

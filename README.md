@@ -23,7 +23,7 @@ conda create --name abricate_env --file abricate_linux.txt
 ```
 
 ## Input
-Takes a .csv file with two columns: "samples" and "path"
+Takes a .csv file with two columns: "samples" and "path".  Check-out the `samples.csv` file as a guide for formating the sample input.
 ```
 sample,path
 sample_1,test/sample_1.fa
@@ -32,7 +32,7 @@ sample_3,test/sample_3.fa
 ```
 
 ## Output
-The primary output file of interest is the `abricate/abricate.csv`, which flattens the results of each sample `summary.csv` into a single line.  A zero (0) indicates that the virulence factor was not found in any of the eight databases.  A one (1) indicates that the virulence factor was found in **at least** one of the eight databases.
+The `abricate_genomes.py` file will generate a new directory titled "abricate" containing a pile of files.  The primary output file of interest is the `abricate/abricate.csv`, which flattens the results of each sample `summary.csv` into a single line.  A zero (0) indicates that the virulence factor was not found in any of the eight databases.  A one (1) indicates that the virulence factor was found in **at least** one of the eight databases.
 ```
 abricate
 ├── abricate.csv                # summary file of virulence factors
@@ -56,4 +56,13 @@ abricate
 ```
 
 ## Run
-The conda environment must first be activated before running `abricate_genomes.py`,
+```
+# activate the "abricate_env" conda environment
+conda activate abricate_env
+
+# check the very mild help flag for script options
+python abricate_genomes.py -h
+
+# run abricate_genomes.py with the provided test data
+python abricate_genomes.py samples.csv
+```
