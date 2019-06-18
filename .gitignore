@@ -1,2 +1,5 @@
+.*
+!.gitignore
+docs/
 data/
 scripts/
